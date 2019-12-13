@@ -12,6 +12,7 @@ import Clients from '../sections/clients.js';
 import Join from '../sections/join_us.js';
 import Contact from '../share/contact.js';
 import Footer from '../share/footer.js';
+//import Video from '../sections/video.js';
 
 
 export default class Home extends Component {
@@ -29,7 +30,7 @@ export default class Home extends Component {
 		<Comunnity/>
 
 		<TI/>
-		
+
 		<Stadistic/>
 
 		<Team/>

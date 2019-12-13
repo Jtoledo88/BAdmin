@@ -9,7 +9,7 @@ Url: https://www.Frittt.com
 /*==================================
 =            Typography            =
 ==================================*/
-@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+/*@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);*/
 
 body{
 	background-color: #fff;
@@ -122,7 +122,7 @@ a:focus{
 	margin-top: 100px;
 	margin-bottom: 50px;
 	text-align: center;
-	color: #F0394C;
+	color: #3ba1c6;
 }
 .section-info{
 	margin-bottom: 60px;
@@ -175,7 +175,7 @@ a:focus{
 }
 
 .loader .loader-progress { 
-	background-color: #F0394C;
+	background-color: rgb(100, 57, 240);
 	position: fixed;
 	z-index: 2000;
 	top: 50%;
@@ -219,8 +219,8 @@ a:focus{
 	top: 20px !important;
 }
 .main-nav-change{
-	background: rgba(240, 57, 76, 0.95);/* #F0394C*/;
-	height: 80px;
+	background: #0f012d;/* #F0394C*/;
+	height: 100px;
 }
 .logo-left{
 	position: absolute;
@@ -270,7 +270,7 @@ a:focus{
 .nav-menu a:hover,
 .nav-menu .current a{
   color: #fff;
-  background-color: #F0394C;
+  background-color: #3ba1c6;
   text-decoration:none;
 }
 /*-----  End of menu  ------*/
@@ -325,7 +325,7 @@ a:focus{
   overflow: hidden;
 }
 .caption .btn-start:hover{
-	color: #F0394C;
+	color: #0d6f7f;
 	background:#fff;
 	}
 
@@ -383,18 +383,18 @@ a:focus{
 }
 .feature-item .content .icon{
 	font-size: 80px;
-	color: #F0394C;
+	color: #0d6f7f;
 	margin-bottom: 30px;
 	line-height: 100%;
 }
 .feature-item .content .title{
 	font-size: 20px;
-	color: #F0394C;
+	color: #0d6f7f;
 	margin-bottom: 40px;
 	text-transform: uppercase;	
 }
 .feature-item .content:hover{
-	background-color: #F0394C; 
+	background-color: #0d6f7f; 
 	-webkit-transform: translateY(-10px);
 	transform: translateY(-10px);
 }
@@ -461,7 +461,7 @@ a:focus{
 	cursor: pointer;
 }
 .each-courses:hover .title{
-	color: #F0394C;
+	color: #0d6f7f;
 }
 .each-courses:hover .info{
 	color: #fff;
@@ -564,11 +564,11 @@ a:focus{
 	margin-top: 20px;
 }
 .portfolio-filter li .active{
-	color: #F0394C;
+	color: #0d6f7f;
 	text-decoration: none;
 }
 .portfolio-filter li a:hover{
-	color: #F0394C;
+	color: #0d6f7f;
 }
 .portfolio-item{
 	margin-bottom: 30px;
@@ -673,7 +673,7 @@ a:focus{
 #count-down .color-overlay{
 	width: 100%;
 	height: 100%;
-	background: rgba(240, 57, 76, 0.7);
+	background: #512564;
 }
 #count-down .section-title,
 #count-down .counter-content p,
@@ -707,7 +707,7 @@ a:focus{
 	overflow: hidden;
 }
 .team-member .caption .color-overlay{
-	background: rgba(240, 57, 76, 0.7);
+	background: #512564ab;
 	left: 100%;
 	opacity: 0;
 	-webkit-transition: all .3s;
@@ -773,7 +773,7 @@ a:focus{
 	color: #fff;
 }
 .each-post .headline a:hover{
-	color: #F0394C;
+	color: #0d6f7f;
 }
 .read-more-button{
 	margin-top: 80px;
@@ -1065,7 +1065,7 @@ a:focus{
 	background-color: rgba(255,255,255,.9);
 }
 .join-btn a{
-	background-color: #F0394C;
+	background-color: #0d6f7f;
 	text-transform: uppercase;
 	border: none;
 	border-radius: 0;
@@ -1137,10 +1137,10 @@ a:focus{
 #contact .form input:focus,
 #contact .form textarea:focus{
 	box-shadow: none;
-	border-color: #F0394C;
+	border-color: #0d6f7f;
 }
 #contact .form .btn-submit{
-	background: #F0394C;
+	background: #0d6f7f;
 	color: #fff;
 	padding: 12px;
 }
@@ -1175,7 +1175,7 @@ a:focus{
 	font-size: 30px;
 }
 .social-icon-footer li a:hover{
-	color: #F0394C;
+	color: #0d6f7f;
 }
 .subscribe-form p{
 	color: #999999;
@@ -1193,7 +1193,7 @@ a:focus{
 .subscribe-form input:focus{
 	-webkit-box-shadow: none;
 	box-shadow: none;
-	border-color: #F0394C;
+	border-color: #0d6f7f;
 }
 .subscribe-form input::-webkit-input-placeholder {
    color: #666666;
@@ -1216,7 +1216,7 @@ a:focus{
 	font-size: 12px;
 }
 .copyright .info a:hover{
-	color: #F0394C;
+	color: #0d6f7f;
 }
 /*-----  End of footer  ------*/
 
